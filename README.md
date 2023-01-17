@@ -1,4 +1,6 @@
- TimeTrack 
+# TimeTrack 
+
+Old code, for Windows 2000/XP. Requires You need Borland C++ Builder 5, ADVStringGrid to compile it yourself.
 
 TimeTrack
 =========
